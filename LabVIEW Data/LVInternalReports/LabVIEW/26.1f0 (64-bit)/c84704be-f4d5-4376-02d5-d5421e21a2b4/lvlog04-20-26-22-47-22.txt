@@ -1,0 +1,112 @@
+####
+#Date: 20 Apr 2026 22:47:22
+#OSName: Windows 10 Home Single Language 
+#OSVers: 10.0
+#OSBuild: 26200
+#AppName: LabVIEW
+#Version: 26.1f0 64-bit
+#AppKind: FDS
+#AppRunMode: Interactive
+#AppModDate: 1/17/2026 16:43 GMT
+#LabVIEW Base Address: 0x00007FF774AE0000
+
+
+InitExecSystem() call to GetCurrProcessNumProcessors() reports: 12 processors
+InitExecSystem() call to GetNumProcessors()            reports: 12 processors
+InitExecSystem()                                      will use: 12 processors
+Resource cache generator must exist and be a file. C:\Program Files\National Instruments\LabVIEW 2026\Targets\NI\FPGA\bin\gen_res_cache_lvaddons.exe
+starting LabVIEW Execution System 2 Thread 0 , capacity: 24 at [3859550247.85718155, (22:47:27.857181550 2026:04:20)]
+starting LabVIEW Execution System 2 Thread 1 , capacity: 24 at [3859550247.85718155, (22:47:27.857181550 2026:04:20)]
+starting LabVIEW Execution System 2 Thread 2 , capacity: 24 at [3859550247.85718155, (22:47:27.857181550 2026:04:20)]
+starting LabVIEW Execution System 2 Thread 3 , capacity: 24 at [3859550247.85718155, (22:47:27.857181550 2026:04:20)]
+starting LabVIEW Execution System 2 Thread 4 , capacity: 24 at [3859550247.85718155, (22:47:27.857181550 2026:04:20)]
+starting LabVIEW Execution System 2 Thread 5 , capacity: 24 at [3859550247.85718155, (22:47:27.857181550 2026:04:20)]
+starting LabVIEW Execution System 2 Thread 6 , capacity: 24 at [3859550247.85718155, (22:47:27.857181550 2026:04:20)]
+starting LabVIEW Execution System 2 Thread 7 , capacity: 24 at [3859550247.85718155, (22:47:27.857181550 2026:04:20)]
+starting LabVIEW Execution System 2 Thread 8 , capacity: 24 at [3859550247.85718155, (22:47:27.857181550 2026:04:20)]
+starting LabVIEW Execution System 2 Thread 9 , capacity: 24 at [3859550247.85718155, (22:47:27.857181550 2026:04:20)]
+starting LabVIEW Execution System 2 Thread 10 , capacity: 24 at [3859550247.85718155, (22:47:27.857181550 2026:04:20)]
+starting LabVIEW Execution System 2 Thread 11 , capacity: 24 at [3859550247.85718155, (22:47:27.857181550 2026:04:20)]
+starting LabVIEW Execution System 5 Thread 0 , capacity: 24 at [3859553349.40129662, (23:39:09.401296616 2026:04:20)]
+starting LabVIEW Execution System 5 Thread 1 , capacity: 24 at [3859553349.40129662, (23:39:09.401296616 2026:04:20)]
+starting LabVIEW Execution System 5 Thread 2 , capacity: 24 at [3859553349.40129662, (23:39:09.401296616 2026:04:20)]
+starting LabVIEW Execution System 5 Thread 3 , capacity: 24 at [3859553349.40129662, (23:39:09.401296616 2026:04:20)]
+starting LabVIEW Execution System 5 Thread 4 , capacity: 24 at [3859553349.40129662, (23:39:09.401296616 2026:04:20)]
+starting LabVIEW Execution System 5 Thread 5 , capacity: 24 at [3859553349.40129662, (23:39:09.401296616 2026:04:20)]
+starting LabVIEW Execution System 5 Thread 6 , capacity: 24 at [3859553349.40129662, (23:39:09.401296616 2026:04:20)]
+starting LabVIEW Execution System 5 Thread 7 , capacity: 24 at [3859553349.40129662, (23:39:09.401296616 2026:04:20)]
+starting LabVIEW Execution System 5 Thread 8 , capacity: 24 at [3859553349.40129662, (23:39:09.401296616 2026:04:20)]
+starting LabVIEW Execution System 5 Thread 9 , capacity: 24 at [3859553349.40129662, (23:39:09.401296616 2026:04:20)]
+starting LabVIEW Execution System 5 Thread 10 , capacity: 24 at [3859553349.40129662, (23:39:09.401296616 2026:04:20)]
+starting LabVIEW Execution System 5 Thread 11 , capacity: 24 at [3859553349.40129662, (23:39:09.401296616 2026:04:20)]
+stopping LabVIEW Execution System 2 Thread 0 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 2 Thread 1 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 2 Thread 2 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 2 Thread 3 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 2 Thread 4 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 2 Thread 5 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 2 Thread 6 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 2 Thread 7 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 2 Thread 8 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 2 Thread 9 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 2 Thread 10 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 2 Thread 11 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 5 Thread 0 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 5 Thread 1 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 5 Thread 2 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 5 Thread 3 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 5 Thread 4 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 5 Thread 5 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 5 Thread 6 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 5 Thread 7 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 5 Thread 8 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 5 Thread 9 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 5 Thread 10 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+stopping LabVIEW Execution System 5 Thread 11 , capacity: 24 at [3859562734.70532179, (02:15:34.705321789 2026:04:21)]
+
+<DEBUG_OUTPUT>
+21-04-2026 02:15:34.758
+DWarn 0xD1048076: AppDomain is being destroyed but the Runtime AppDomain was not ref-counted to zero
+source\dotnet\DotNetAppDomain.cpp(238) : DWarn 0xD1048076: AppDomain is being destroyed but the Runtime AppDomain was not ref-counted to zero
+[ExecSys:none]
+minidump id: c84704be-f4d5-4376-02d5-d5421e21a2b4
+</DEBUG_OUTPUT>
+
+0x00007FF8938C2053 - ????? <unknown> + 0
+0x00007FF8257D663E - ??? <unknown> + 0
+0x00007FF8257D61B1 - ??? <unknown> + 0
+0x00007FF8257D6D20 - ??? <unknown> + 0
+0x00007FF8938C8D4B - ????? <unknown> + 0
+0x00007FF8938C1B44 - ????? <unknown> + 0
+0x00007FF8938BF567 - ????? <unknown> + 0
+0x00007FF8938BC152 - ????? <unknown> + 0
+0x00007FF7764CD80D - ???W <unknown> + 0
+0x00007FF774E3DF94 - ???W <unknown> + 0
+0x00007FF774E3ABF5 - ???W <unknown> + 0
+0x00007FFFFD4064D2 - ??????? <unknown> + 0
+0x00007FF774C0CACB - ???W <unknown> + 0
+0x00007FF774C0CC44 - ???W <unknown> + 0
+0x00007FF774DB1AE9 - ???W <unknown> + 0
+0x00007FF774DA6656 - ???W <unknown> + 0
+0x00007FF774DA69C4 - ???W <unknown> + 0
+0x00007FF774DA76E0 - ???W <unknown> + 0
+0x00007FF775992A62 - ???W <unknown> + 0
+0x00007FF774DA9675 - ???W <unknown> + 0
+0x00007FF775952126 - ???W <unknown> + 0
+0x00007FF77594DE33 - ???W <unknown> + 0
+0x00007FF775956901 - ???W <unknown> + 0
+0x00007FF775992A6E - ???W <unknown> + 0
+0x00007FF774DA9BAF - ???W <unknown> + 0
+0x00007FF774DB87AD - ???W <unknown> + 0
+0x00007FF774DC621E - ???W <unknown> + 0
+0x00007FF774DC5EB9 - ???W <unknown> + 0
+0x00007FF774DC6382 - ???W <unknown> + 0
+0x00007FF77544CEC9 - ???W <unknown> + 0
+0x00007FF7754501C6 - ???W <unknown> + 0
+0x00007FF775456F7B - ???W <unknown> + 0
+0x00007FF777452F30 - ???W <unknown> + 0
+0x00007FF774D4298B - ???W <unknown> + 0
+0x00007FF774D425EB - ???W <unknown> + 0
+0x00007FF774D42381 - ???W <unknown> + 0
+
+No VI call stack.

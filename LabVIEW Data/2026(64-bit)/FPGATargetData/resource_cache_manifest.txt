@@ -1,0 +1,2 @@
+C:\Program Files\National Instruments\LabVIEW 2026\Targets\NI\FPGA
+C:\Program Files\NI\LVAddons\dfdt\1\Targets\NI\FPGA
